@@ -26,9 +26,9 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: `juness`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `juness`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
