@@ -11,7 +11,7 @@ module.exports = {
   siteMetadata: {
     title: `test site`,
     description: `test site`,
-    author: `@gatsbyjs`,
+    author: `@juness`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
