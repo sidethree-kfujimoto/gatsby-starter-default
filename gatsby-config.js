@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `test site`,
+    title: `test site test site test site`,
     description: `test site`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
